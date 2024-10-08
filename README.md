@@ -2,7 +2,7 @@
 
 This project analyzes Airbnb listing prices in Beijing, Seattle, and Bangkok using regression modeling and exploratory data analysis.
 
-[View Airbnb Project](https://josephvtranx.github.io/-AirBnB-Prices/airbnb.html){:target="_blank"}
+<a href="https://josephvtranx.github.io/-AirBnB-Prices/airbnb.html" target="_blank">Click here to view in a new tab</a>
 
 ## Dataset
 - **Beijing-Seattle Dataset**: Contains price and city information.
